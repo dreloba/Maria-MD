@@ -2,23 +2,23 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "919931122319"
-global.ownername = "Ayush pandey"
-global.ytname = "YT: AyushBotz.inc"
+global.ownernomer = "2349072953521"
+global.ownername = "AlphaBolt"
+global.ytname = "Alphabolt"
 global.socialm = "GitHub: Ayushpandey023"
-global.location = "Indian"
+global.location = "Alpha City"
 
-global.ownernumber = '919931122319'  //creator number
-global.ownername = 'Ayush' //owner name
+global.ownernumber = '2349072953521'  //creator number
+global.ownername = 'Alpabolt' //owner name
 global.botname = '𝐌𝐀𝐑𝐈𝐀-𝐌𝐃' //name of the bot
 
 //sticker details
-global.stickername = '💙𓆩‎✘AʏᴜSʜ✘𓆪_✰'
+global.stickername = '💙Alphabolt𓆩‎✘AʏᴜSʜ✘𓆪_✰'
 global.packname = 'Sticker By'
-global.author = 'Maria Bot'
+global.author = 'Alphabolt Bot'
 //console view/theme
 global.themeemoji = '🧩'
-global.wm = "Ayush botz inc."
+global.wm = "Alpjabolt botz inc."
 
 //theme link
 global.link = '' // if you want to send bot reply with group link then put your link here 🌿 
@@ -33,7 +33,7 @@ global.autorecordtype = false //auto typing + recording
 global.autoread = true //auto read messages
 global.autobio = false //auto update bio
 global.anti92 = true //auto block +92 
-global.autoread_status = true //auto view status/story
+global.autoread_status = false //auto view status/story
 
 
 
